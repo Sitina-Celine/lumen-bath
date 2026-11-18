@@ -1,0 +1,22 @@
+{
+  "name": "lumen-bath",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "author": "Celine Sitina",
+  "description": "Lumen Bath: a three-question quiz funnel that matches a body wash to your skin and sells it through Stripe Checkout.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "stripe": "^23.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.0",
+    "vite": "^8.3.8"
+  }
+}
